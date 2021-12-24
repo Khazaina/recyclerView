@@ -18,5 +18,27 @@ public class ModelClass {
 
 
 
+    public int getImageview() {
+        return imageview;
+    }
+
+    public String getTextview1() {
+        return textview1;
+    }
+
+    public String getDivider()
+    {
+        return divider;
+    }
+
+
+    public String getTextview2() {
+        return textview2;
+    }
+
+    public String getTextview3() {
+        return textview3;
+    }
+
 
 }
